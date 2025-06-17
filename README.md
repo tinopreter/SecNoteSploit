@@ -20,7 +20,7 @@ This exploit app queries the provider, and performs a brute force of the 4-digit
 ![image](https://github.com/user-attachments/assets/e6d9be18-69d6-464e-8386-aac7a51fdda1)   
 
 
-I have attached an already compiled APK to the Releases section.
+I have attached an already compiled APK to the [Releases](https://github.com/tinopreter/SecNoteSploit/releases/tag/ExploitApk) section.
 
 ## 
 
